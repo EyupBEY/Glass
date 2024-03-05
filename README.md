@@ -21,5 +21,21 @@
     * [5.1kohm](https://www.e-komponent.com/chip-resistor-pulse-withstanding-thick-film-14642)
 * 2 Different USB-C:
     * [UART-J1](https://www.e-komponent.com/usb-type-c-receptacle-connector-24-position)
+        * [CP2102](https://tr.aliexpress.com/item/1005003695920482.html)
     * [OTG-J2](https://www.e-komponent.com/usb-type-c-receptacle-connector-24-position-through-hole)
+* [Battery Charger](https://www.robolinkmarket.com/tp4056-type-c-korumali-sarj-modulu?gad_source=1&gclid=CjwKCAiA3JCvBhA8EiwA4kujZv_BccyAmVcH_dnqfvpqyiwVVsPqzX4XjYUgFuc4XiOgCyigR-7z5RoCMzIQAvD_BwE)
+* RTC
+    * Load capacitance: CL = (C1*C2)/(C1+C2)
+        * https://www.e-komponent.com/12-pf-ceramic-capacitor-gjm1555c1h120fb01d
+    * https://www.e-komponent.com/crystal-6pf-24024
+* sd-card
+    * ROMEOdan aldım
+
 * ESD
+* Power Path Controller
+    * Mosfet
+* speaker(zaten elimde max var. Sadece çıkışlara baksan dikkat etsen yeter.)
+* GPS
+* Cellular
+* microphone
+* Her pin için connector
