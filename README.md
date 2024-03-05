@@ -1,6 +1,7 @@
 ## Software Abilities
 * 
 
+2 Layers: 1st is system, 2nd is ground
 ## Manufacturing
 * External Crystal Clock Source
     * [Crystal](https://www.e-komponent.com/40-mhz-10ppm-crystal)
@@ -9,10 +10,9 @@
 
 * Antenna
     * [ANT3216A063R2400A](https://www.e-komponent.com/24ghz-bluetooth-wlan-zigbee-chip-rf-antenna)
-    * [0.8nH](https://www.e-komponent.com/08-nh-unshielded-thick-film-inductor)
-    * [5.6pF](https://www.e-komponent.com/56pf-01pf-50v-ceramic-capacitor-c0g-np0-0603-1608-metric)
-    * [10pF](https://www.e-komponent.com/10pf-025pf-50v-ceramic-capacitor-c0g-np0-0805-2012-metric)
-    * [12pF](https://www.e-komponent.com/12-pf-ceramic-capacitor-gjm1555c1h120fb01d)
+    * [2.7nH](https://www.e-komponent.com/27-nh-unshielded-multilayer-inductor)
+    * [1.5pF](https://www.e-komponent.com/ceramic-capacitors-17858)
+    * For the antenna and the antenna matching circuit, to ensure radiation performance, the antenna’s characteristic impedance must be around 50 Ω. Adding a CLC matching circuit near the antenna is recommended to adjust the antenna. However, if the available space is limited and the antenna impedance point can be guaranteed to be 50 Ω by simulation, then there is no need to add a matching circuit near the antenna.
 
 * [Buttons](https://www.e-komponent.com/tactile-switch-spst-no-top-actuated-surface-mount-21187)
 
@@ -35,7 +35,8 @@
 * Power Path Controller
     * Mosfet
 * speaker(zaten elimde max var. Sadece çıkışlara baksan dikkat etsen yeter.)
-* GPS
-* Cellular
-* microphone
+* GPS(Satın al. Sadece çıkışlara baksan dikkat etsen yeter.)
+* Cellular(Satın al. Sadece çıkışlara baksan dikkat etsen yeter. Google'a yazınca hemen çıkıyor)
+* microphone(Satın al. Sadece çıkışlara baksan dikkat etsen yeter.)
+
 * Her pin için connector
