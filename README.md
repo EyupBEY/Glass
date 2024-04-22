@@ -1,3 +1,27 @@
+## EAGLE Libraries
+* [/libraries](/libraries/)
+ * [112J-TDAR-R01.lbr](/libraries/112J-TDAR-R01.lbr)
+ * [AC0201JR-074K7L.lbr](/libraries/AC0201JR-074K7L.lbr)
+ * [CP2102N-A01-GQFN28.lbr](/libraries/CP2102N-A01-GQFN28.lbr)
+ * [DW01A.lbr](/libraries/DW01A.lbr)
+ * [ECS-.327-6-34QCS-TR.lbr](/libraries/ECS-.327-6-34QCS-TR.lbr)
+ * [ESP32-S3.lbr](/libraries/ESP32-S3.lbr)
+ * [FS8205A.lbr](/libraries/FS8205A.lbr)
+ * [RT9193.lbr](/libraries/RT9193.lbr)
+ * [SFV24R-3STBE1HLF.lbr](/libraries/SFV24R-3STBE1HLF.lbr)
+ * [SparkFun-Capacitors.lbr](/libraries/SparkFun-Capacitors.lbr)
+ * [SparkFun-Coils.lbr](/libraries/SparkFun-Coils.lbr)
+ * [SparkFun-Connectors.lbr](/libraries/SparkFun-Connectors.lbr)
+ * [SparkFun-PowerSymbols.lbr](/libraries/SparkFun-PowerSymbols.lbr)
+ * [SparkFun-Resistors.lbr](/libraries/SparkFun-Resistors.lbr)
+ * [SR4W035.lbr](/libraries/SR4W035.lbr)
+ * [TL3780AF330QG.lbr](/libraries/TL3780AF330QG.lbr)
+ * [TP4056.lbr](/libraries/TP4056.lbr)
+ * [USB4080-03-A_REVA1.lbr](/libraries/USB4080-03-A_REVA1.lbr)
+ * [USB4085-GF-A_REVB.lbr](/libraries/USB4085-GF-A_REVB.lbr)
+ * [W25Q128JVSIQ.lbr](/libraries/W25Q128JVSIQ.lbr)
+
+
 ## Software Abilities
 * 
 
