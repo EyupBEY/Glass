@@ -1,4 +1,4 @@
-## EAGLE Libraries
+## [EAGLE Libraries](/libraries)
 * [112J-TDAR-R01.lbr](/libraries/112J-TDAR-R01.lbr)
 * [AC0201JR-074K7L.lbr](/libraries/AC0201JR-074K7L.lbr)
 * [CP2102N-A01-GQFN28.lbr](/libraries/CP2102N-A01-GQFN28.lbr)
@@ -22,7 +22,6 @@
 
 
 ## Software Abilities
-* 
 
 2 Layers: 1st is system, 2nd is ground
 ## Manufacturing
