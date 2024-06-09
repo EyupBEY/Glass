@@ -1,1 +1,1 @@
-# The Most Capable ESP32-S3 Development Board
+# The Most Quality ESP32-S3 Board Ever Made
